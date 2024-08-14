@@ -1,2 +1,1 @@
-# vue-music-pinia
-Pet project with firebase and pinia to create audio player
+![alt text](readme.png "Music")
